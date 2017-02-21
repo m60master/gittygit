@@ -1,0 +1,1346 @@
+[33mcommit b4faee3404f1f3e4e3bf75784f6ea7a60a47a70a[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue May 17 11:20:25 2016 -0500
+
+    Replace feedback link for 2016 OSCON workshop.
+
+[33mcommit 16434480d458ea5e88f89ceec36cd29e51874f68[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue May 17 11:20:00 2016 -0500
+
+    Replace links with visible URLs for on-screen usefulness.
+
+[33mcommit 376efa3d3d8462e10b1f91f5b01a4755a83919a1[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Mon May 16 11:02:24 2016 -0500
+
+    Theme: Switch from Drupalize.Me theme to O'Reilly pink
+
+[33mcommit 1c6ab90b8300e609b67988109c6965422b0757e5[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Mon Aug 24 15:04:14 2015 +0100
+
+    Remove slide transition for those who suffer from vestibular disorder.
+
+[33mcommit 74dad73fc2ed1224ad1537292d0a2558d58615cd[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Mon Aug 24 14:14:43 2015 +0100
+
+    Fix missing link for peer review.
+    
+    Resolves [Issue #2] reported by @robcz
+
+[33mcommit 27a377005384e83112127f0e07eb60ffeefc8a70[m
+Merge: 0364770 2b5a3ad
+Author: Emma Jane <emma@emmajane.net>
+Date:   Mon Aug 24 14:06:15 2015 +0100
+
+    Merge pull request #14 from phillxnet/typo_in_oscon_ws_slide
+    
+    typo / spelling in oscon workshop slide
+
+[33mcommit 2b5a3addc31b6c3f3cea343a6d21592b93779786[m
+Author: Philip Guyton <philip@yewtreeapps.com>
+Date:   Mon Aug 24 13:42:03 2015 +0100
+
+    typo / spelling in oscon workshop slide
+
+[33mcommit 0364770382db47900cb7fd703502a4071fac1495[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Jul 22 11:53:22 2015 -0700
+
+    README: Added links to book and video; language cleanup.
+
+[33mcommit 4c239d950f7cfa4a5cd78ee05195ab117bace930[m
+Merge: dde7c5d 220dc3b
+Author: Emma Jane <emma@emmajane.net>
+Date:   Wed Jul 22 11:19:44 2015 -0700
+
+    Merge pull request #13 from CalebeGeazi/master
+    
+    fix slide 5/1 where 2 slides were combined into 1
+
+[33mcommit 220dc3bcd07f911c96fd65984aff2384fea8b127[m
+Author: Calebe Maciel <cmaciel@christianbook.com>
+Date:   Tue Jul 21 15:10:19 2015 -0700
+
+    fixed page 5/1 where 2 slides were combined into 1
+
+[33mcommit dde7c5d55d592d3533574756abf34f2ced40d08a[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Jul 21 12:11:44 2015 -0700
+
+    Updated URL for slides to use non-personal project page.
+
+[33mcommit 54f49bb5d5f992a8eb2fc218b92a180ce98d4c65[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Jul 21 12:06:48 2015 -0700
+
+    OSCON 2015 Portland: Updated handout with revised book terms
+
+[33mcommit eca7edd2b5d90b00c7b2e476c4686ebb1fe134b3[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Jul 21 11:56:28 2015 -0700
+
+    OSCON 2015 Portland: Language updates based on updated book terms
+
+[33mcommit 2db982dbfd4d7d66b676599158a009b1a4115f4d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Mar 17 12:32:00 2015 +0000
+
+    Changes to "Undo" graphic: add credits, add license, clean export
+    
+    - Adding authorship to myself (@emmajane)
+    - Adding credit to @jameyhicks for the addition of git stash
+    - Adding a CC-BY license
+    - Adjusted the formatting contributed by jameyhicks so the
+      words didn't touch the edges of the diamond
+    - Exported a clean PNG file without the extra artefact in the
+      top left corner (export "group" instead of export "all").
+
+[33mcommit d3f5569631692bfa205795b3ea3edc1ed36a5832[m
+Merge: 629b54f 2212608
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Mar 17 12:21:59 2015 +0000
+
+    Merge branch 'jameyhicks-master'
+    
+    Adds a new element to the "undo changes" flowchart which accounts for
+    re-applying the undone changes later using git stash.
+
+[33mcommit 22126084a1bbb562a64a673e4a46ab67927cd7ee[m
+Author: Jamey Hicks <jamey.hicks@qrclab.com>
+Date:   Wed Mar 11 09:32:40 2015 -0400
+
+    added git stash to flow
+
+[33mcommit 629b54f1d478bb73ce36c13112b48238358639f7[m
+Merge: a020314 13430e7
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sat Jan 24 03:05:46 2015 +0000
+
+    Resolving merge conflict; fixing broken link
+
+[33mcommit a020314867343b64f6b018cd5b701fe15b76af13[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sat Jan 24 03:02:59 2015 +0000
+
+    Replacing Hosting with Governance
+
+[33mcommit be6f8b5593a209b2b392f91f5d6f9ca4e774e509[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sat Jan 24 02:24:38 2015 +0000
+
+    DevWinter Updates: Updates to naming and diagrams.
+    
+    - Forking -> Collocated Repositories
+    - Patching -> Dispersed Repositories
+    - Branching -> Shared Repository
+    - Removed: Centralized comparison
+    
+    Replaced governance diagrams with workflow, instead of commit pictures.
+
+[33mcommit 681ff0d13dfd01e967c5ab11d343a467e1eb1dfd[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Fri Jan 23 18:25:53 2015 +0000
+
+    Initial updates for devwinter version of the deck
+
+[33mcommit 50d0e13225142349bacefabe26cd5ef89a456859[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Jan 8 17:54:29 2015 +0000
+
+    Diagram: undoing a merge. This is a working draft.
+    
+    I expect there will be some optimisations available, especially for
+    merges where this is no commit associated with the merge. In general:
+    used reset for unpublished work; used revert for published work.
+
+[33mcommit 25056bfff1864744529c84cf00aa6459add71ef7[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Dec 30 17:06:57 2014 +0000
+
+    Updating diagram: Adding commit ID reference to rebase.
+
+[33mcommit df0f30cccce81fed42ad83bc6407aabd32894a27[m
+Author: xrmxrm <xrmxrm@gmail.com>
+Date:   Tue Dec 9 22:40:48 2014 -0800
+
+    Fix some markdown
+    Issue #1
+
+[33mcommit f117eb5fa7b3f875afb796e409d29e5c983a7480[m
+Author: xrmxrm <xrmxrm@gmail.com>
+Date:   Tue Dec 9 20:18:33 2014 -0800
+
+    Add a line to Readme.
+
+[33mcommit 568df444f40547001042f67faedfe568a82ed7ce[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 17:28:29 2014 -0400
+
+    Lessons were renumbered to match O'Reilly conventions.
+    
+    Intro is actually lesson "zero" by the ORM convention. Shuffling all
+    lessons so recordings match any numbers used in the publications.
+
+[33mcommit 7d9a8dc74e58979fbd10389f27edef7f0b65668e[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:50:58 2014 +0100
+
+    Lesson 4: Adding details on using git config
+    
+    Added commands to customize the following:
+    
+    - username (or real name, as you prefer)
+    - email address
+    - enable color helpers within the git messages
+    
+    Added a self-study piece on customizing your command prompt to include
+    additional color and branch information.
+
+[33mcommit d4ff5a71ec1bae9abaa84ce17c9c36a5e990bf82[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:16:16 2014 +0100
+
+    Lesson 3: Extended descriptions for cloning a repository, and using git log
+
+[33mcommit 68b446b8e7f2a8f902d7d8727e9a1991441462ac[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:05:44 2014 +0100
+
+    Renumbering lessons after addding Lesson 4 on configuration
+    
+    Deleting old lesson names
+
+[33mcommit 3b4ce0aa7fdb561f912e7a4390fd1fba9f133747[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:03:41 2014 +0100
+
+    Lesson 4: Adding new lesson on configuring Git
+
+[33mcommit e5ccc2f6454611a4762b07b09059658e9a0b4c48[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Sep 5 13:26:46 2014 +0100
+
+    Lesson 2: Extended descriptions for forking a project on GitLab
+
+[33mcommit 5fd9ba480710c9330fcf9e8addf82a30ba2ec069[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Sep 4 14:56:57 2014 +0100
+
+    Lesson 1: Extended descriptions for introduction and warm-up exercise
+
+[33mcommit c3b5c007bc0579f129c1ae0a760938e605971ce6[m
+Author: emmajane <emma@emmajane.net>
+Date:   Tue Sep 2 15:32:52 2014 +0100
+
+    Adding stub descriptions for video lessons from O'Reilly outline
+    
+    1. Introduction
+       Warm-up exercise
+    2. Getting Started
+       Using GitLab
+    3. Downloading a Remote Repository
+       Using clone
+    4. Getting Started as a Team of One
+       Using init, add
+    5. Connecting to Remote Repositories
+       Different ways to (re)connect files
+    6. Working with Branches
+       One-issue-per-branch workflow
+    7. Working with Tags
+       Dealing with detached head state
+    8. Finding and Fixing Bugs
+       Using log, bisect, blame, stash
+    9. Rollbacks, Resets, and Undoing Your Work
+       Amend, Checkout, Reset, Revert
+    10.Rebase
+       Rebase, Rerere
+    11.Collaborating on GitHub
+       Fork, Web UI, Issues, Pull Request
+    12.Collaborating on BitBucket
+       Fork, Issues, Merge Requests
+
+[33mcommit 13430e73fbe5c1b58c61d6c4654de1bca43a9304[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sat Jan 24 02:24:38 2015 +0000
+
+    DevWinter Updates: Updates to naming and diagrams.
+    
+    - Forking -> Collocated Repositories
+    - Patching -> Dispersed Repositories
+    - Branching -> Shared Repository
+    - Removed: Centralized comparison
+    
+    Replaced governance diagrams with workflow, instead of commit pictures.
+
+[33mcommit 21501a38a310996353f881e78f58efe99e55c799[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Fri Jan 23 18:25:53 2015 +0000
+
+    Initial updates for devwinter version of the deck
+
+[33mcommit b92cbe6459ff6046d63f64ba18e2281d5c9404e7[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Jan 8 17:54:29 2015 +0000
+
+    Diagram: undoing a merge. This is a working draft.
+    
+    I expect there will be some optimisations available, especially for
+    merges where this is no commit associated with the merge. In general:
+    used reset for unpublished work; used revert for published work.
+
+[33mcommit e8d6aff0d24dffa9e4e7a00f8e9e7cd2b9d784c4[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Dec 30 17:06:57 2014 +0000
+
+    Updating diagram: Adding commit ID reference to rebase.
+
+[33mcommit ae56a1f658ef6a717c5ea67f10cc0cab52933c3d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Dec 30 16:55:43 2014 +0000
+
+    Adding workflow diagram for: reset, revert, rebase, checkout.
+
+[33mcommit a715c069655acb58efd65389f13bebd321809710[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Dec 30 16:55:43 2014 +0000
+
+    Adding workflow diagram for: reset, revert, rebase, checkout.
+
+[33mcommit 794e44f30149e74662a52a2105bf0aa593a41f5e[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Nov 6 12:27:51 2014 -0500
+
+    Updating feedback URL on final slide to TrueNorthPHP.
+
+[33mcommit 8e60250dbd7e58b7df72dd26aba10282381fe071[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Sep 11 13:52:36 2014 -0400
+
+    Fixing markdown for [Issue #2]
+    
+    Added some backticks to the list of commands to improve formatting.
+
+[33mcommit 2480520846a71b3a214840b5821a2dcd5e558c78[m
+Merge: f3e74ab ee46470
+Author: Emma Jane <emma@emmajane.net>
+Date:   Fri Dec 19 13:21:02 2014 +0000
+
+    Merge pull request #5 from xrmxrm/1-markdown_fixes
+    
+    1 markdown fixes
+
+[33mcommit ee4647055c43dd24e8f8c0933d2b4db902212c3c[m
+Author: xrmxrm <xrmxrm@gmail.com>
+Date:   Tue Dec 9 22:40:48 2014 -0800
+
+    Fix some markdown
+    Issue #1
+
+[33mcommit 230dfc42d329853d1080ebdcee1323521585beda[m
+Author: xrmxrm <xrmxrm@gmail.com>
+Date:   Tue Dec 9 20:18:33 2014 -0800
+
+    Add a line to Readme.
+
+[33mcommit f3e74abc5dccab39c6c8d64a27619f392ee6d5b3[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Nov 6 12:27:51 2014 -0500
+
+    Updating feedback URL on final slide to TrueNorthPHP.
+
+[33mcommit 45ebc20de1bdfe5a4421d004ecc69996073d70db[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sun Sep 28 23:59:34 2014 +0100
+
+    OSCON webinar updates.
+
+[33mcommit 420a1661ff9fe9926bcf91dc340cb70ddf600b9a[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sun Sep 28 21:34:54 2014 +0100
+
+    Lesson 00: introduction to the learning series
+
+[33mcommit 66b590bcae19b3503137805f5e650d94678f479c[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 10:15:22 2014 -0400
+
+    Updating intros for the telepropmt+ scripts.
+
+[33mcommit a05b1d8942acab73f22b64d317696b95684abf49[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 10:12:17 2014 -0400
+
+    Updated TOC in the PDF.
+
+[33mcommit 3bbd78eb1adaae0ccc6b75e0cee00eee4860d42d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 08:09:21 2014 -0400
+
+    Lesson 10: simplifying the first lesson on interactive rebasing
+
+[33mcommit 22fb9303fb2f504d2a24d4c35ab9fd7fb84a9bb5[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 07:49:33 2014 -0400
+
+    Generating a new PDF with lesson changes from 6, 9, 10
+
+[33mcommit deaf62cf3f042cc7ae399ae8dc37464f537293e0[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 07:45:40 2014 -0400
+
+    Lesson 10: Rebasing your work
+    
+    Topics:
+    
+    - Bringing Your Work Up-to-Date with Rebase
+    - Using Rebase to Combine Several Commits
+    - Using Rebase to Truncate a Branch Before Merging
+    - Combining Your Changes Into Another Branch
+    - Changing Previous Commits with Interactive Rebase
+
+[33mcommit a518b4b60bddb3fa8e2982ec8a605e75eac21715[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 06:59:21 2014 -0400
+
+    Lesson 6: adding rerere to merge conflict section
+
+[33mcommit 39d1319ea1c524f18ee2f756816bb3fc608892b5[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 06:26:32 2014 -0400
+
+    Lesson 6: Dealing with mergin conflicts
+
+[33mcommit 6550bdba525945fd50c630b77a2d7a1b78b9028b[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 05:58:00 2014 -0400
+
+    Lesson 9: extending information on reset, and revert
+    
+    Topics include:
+    - Using Branches for Experimental Work
+    - Amending a Commit
+    - Removing Changes to the Working Directory
+    - Removing Commits with Reset
+    - Promoting a Previous Commit with Revert
+
+[33mcommit 0d418f988227fd5ebf972871c5f0e383f97fdd37[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 18:49:18 2014 -0400
+
+    Lesson 6: Added a new lesson for merging
+    
+    It doesn't make sense to leave merging until later in the series.
+    Incorporating lessons here for:
+    
+    - fetch + merge vs. pull
+    - merging with --no-ff to force a true merge (and add a commit)
+    - default merge strategy (fast forward if possible) which re-aligns the
+      commits as if they'd always been in place, and does not force a new
+      commit message (there is a commit message if a fast forward isn't
+      possible)
+
+[33mcommit b1dbb521af9ba036a7871773d635897e636f2cb3[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 18:02:57 2014 -0400
+
+    Lesson 8: Enhancing notes for git stash
+    
+    The notes were insufficient for this lesson, so I've fixed them. You
+    need to include the commit hash for an example commit that's bad
+    (broken) and an example commit that's working (good). If you don't
+    specify a "bad" commit id, Git will assume that the latest commit for
+    is "bad". It's better if you can be explicit with both in case there's
+    something funky going on.
+
+[33mcommit f387161430f9dd8d14c62e5abaae9ae62700eccc[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 10:33:51 2014 -0400
+
+    New table of contents on the PDF summary of lessons
+
+[33mcommit a4841c6481cea11cbd6d761b7b702ca292cb356d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 10:31:52 2014 -0400
+
+    Lesson 8: expanding descriptions
+    
+    Topics:
+    
+    - Finding Relative History with Git Log
+    - Finding the Last Working State with Bisect
+    - Finding the History of a File with Blame
+    - Using Stash to Work on an Emergency Bug Fix
+
+[33mcommit c78f02e59ec1f27e13bbb438357253f6ab251b7b[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 09:40:37 2014 -0400
+
+    Lesson 7: Expanding notes on tags
+    
+    Lessons are now as follows:
+    
+    - Listing, Adding, and Deleting Tags
+    - Checking Out Tags
+    - Recovering from a Detached HEAD State
+    - Sharing Tags
+
+[33mcommit 5d70e1c32724f36e9c43ee73703ebc0c546cae5f[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 08:39:18 2014 -0400
+
+    Lesson 6: Branching. Expanded descriptions.
+    
+    - Listing all branches; updating the list of branches wwith fetch
+    - Using a different branch; setting up tracking
+    - Establishing your branching strategy (Scheduled Deployment; CD)
+    - Creating a Topic Branch
+    - Pushing your changes to the remote repository and verifying your work
+      was uploaded
+
+[33mcommit 4decdb10e45205fe2fdc6576a0046a5a2780c4c6[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 18:19:27 2014 -0400
+
+    Ignoring swap files from vim.
+
+[33mcommit 4601eb9e687ae617afad7a792ccc3347c5a2e4bb[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 18:13:59 2014 -0400
+
+    Adding a table of contents (with title) to the notes PDF.
+
+[33mcommit 5d4fab60e0ff5ef3b2e79f5c2dc199a8e8274f88[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 17:28:29 2014 -0400
+
+    Lessons were renumbered to match O'Reilly conventions.
+    
+    Intro is actually lesson "zero" by the ORM convention. Shuffling all
+    lessons so recordings match any numbers used in the publications.
+
+[33mcommit 5f5b65c0ed8b97fff6538323e6eec0996f477abc[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 10:26:12 2014 -0400
+
+    Updating makefile to point to the revised lesson names
+
+[33mcommit c9b1607d4c6b834c1848100d7862be968ea02b3b[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 23:05:19 2014 -0400
+
+    Lesson 7: Added intro on branching; reformatted the lessons
+
+[33mcommit 93e368948840f84f96a577cb89a993485b60fd6f[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 09:57:08 2014 -0400
+
+    Lesson 9: Removing lesson stubs from subsequent lessons.
+
+[33mcommit 0c72a51e9dd498607fc7847ed70630df329175cf[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 06:59:56 2014 -0400
+
+    Lesson 6: Extended descriptions for adding remotes
+    
+    - Copying a Repository
+    - Cloning a Local Repository
+    - Converting a Set of Files to a Repository
+    - Adding Another Remote Connection
+
+[33mcommit 8f95898c29193c42b83e421df002a2887083a377[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 20:43:38 2014 +0100
+
+    Lesson 5: Extending notes for starting a local repository
+    
+    Added notes on how to use:
+    
+    - git init
+    - git add
+    - git commit
+    
+    Moved the lesson for copying repositories to the next lesson on remotes,
+    as copying a repository will bring with it remotes (which is a problem
+    if the remote you're copying connects to someone else's code hosting
+    account).
+
+[33mcommit eb2b335b3e5d6fcbbc31d6fbcd0c57404861bf15[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:50:58 2014 +0100
+
+    Lesson 4: Adding details on using git config
+    
+    Added commands to customize the following:
+    
+    - username (or real name, as you prefer)
+    - email address
+    - enable color helpers within the git messages
+    
+    Added a self-study piece on customizing your command prompt to include
+    additional color and branch information.
+
+[33mcommit f30a0ce1ecf124fe437374a9e64c602bb7204d3e[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:16:16 2014 +0100
+
+    Lesson 3: Extended descriptions for cloning a repository, and using git log
+
+[33mcommit d1c11e2f4a5244622ccfd5e27c908be815081ccc[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:05:44 2014 +0100
+
+    Renumbering lessons after addding Lesson 4 on configuration
+    
+    Deleting old lesson names
+
+[33mcommit 584fa4d209e712185c3da4f080fd4450ebb7649f[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:03:41 2014 +0100
+
+    Lesson 4: Adding new lesson on configuring Git
+
+[33mcommit 02004750b3f9c75d935140fcdd7d2f6ab3f27511[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 11:21:12 2014 +0100
+
+    Adding sample bash profile for coloured prompt, and branch name
+
+[33mcommit d2139fdc01a483756424330f04262ede96fec470[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 11:17:47 2014 +0100
+
+    Adding sample git config file.
+
+[33mcommit 620aefc95f4ac7e886a2354d15ef8fa66b98e213[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Sep 5 13:26:46 2014 +0100
+
+    Lesson 2: Extended descriptions for forking a project on GitLab
+
+[33mcommit e3e3710568cadf16c280e560105aa0cf461249fc[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Sep 4 14:56:57 2014 +0100
+
+    Lesson 1: Extended descriptions for introduction and warm-up exercise
+
+[33mcommit 1941a747ee77c60333cd0cd16bb94f0980091aa0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Tue Sep 2 15:32:52 2014 +0100
+
+    Adding stub descriptions for video lessons from O'Reilly outline
+    
+    1. Introduction
+       Warm-up exercise
+    2. Getting Started
+       Using GitLab
+    3. Downloading a Remote Repository
+       Using clone
+    4. Getting Started as a Team of One
+       Using init, add
+    5. Connecting to Remote Repositories
+       Different ways to (re)connect files
+    6. Working with Branches
+       One-issue-per-branch workflow
+    7. Working with Tags
+       Dealing with detached head state
+    8. Finding and Fixing Bugs
+       Using log, bisect, blame, stash
+    9. Rollbacks, Resets, and Undoing Your Work
+       Amend, Checkout, Reset, Revert
+    10.Rebase
+       Rebase, Rerere
+    11.Collaborating on GitHub
+       Fork, Web UI, Issues, Pull Request
+    12.Collaborating on BitBucket
+       Fork, Issues, Merge Requests
+
+[33mcommit eedf5da4c4ffb8c3442273bc0dee1549d7a72c4a[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sun Sep 28 23:59:34 2014 +0100
+
+    OSCON webinar updates.
+
+[33mcommit 7798eb10c235b0bd07038713bf804bf641a7891d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Sun Sep 28 21:34:54 2014 +0100
+
+    Lesson 00: introduction to the learning series
+
+[33mcommit b9ba6aabba960c57e87849c4c488f6d511cdf646[m
+Merge: c546720 f3b2419
+Author: Emma Jane <emma@emmajane.net>
+Date:   Thu Sep 11 14:20:26 2014 -0400
+
+    Merge pull request #3 from emmajanehw/2-markdown_fixes
+    
+    Fixing markdown for [Issue #2]
+
+[33mcommit f3b241947fac44053d5934395757e4475a80e54d[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Sep 11 13:52:36 2014 -0400
+
+    Fixing markdown for [Issue #2]
+    
+    Added some backticks to the list of commands to improve formatting.
+
+[33mcommit c42dcc0770bdc576dcc50b4e7e3ac3e29fe8d7a0[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 10:15:22 2014 -0400
+
+    Updating intros for the telepropmt+ scripts.
+
+[33mcommit b7261b0cc1c42893e5b744f082b4210c4d764c69[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 10:12:17 2014 -0400
+
+    Updated TOC in the PDF.
+
+[33mcommit d3e8091439071a8c1bf3f3ee7db6195c4e9e8291[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 08:09:21 2014 -0400
+
+    Lesson 10: simplifying the first lesson on interactive rebasing
+
+[33mcommit c516f534c0ceda968b2be306cc8a6e99b1463f9b[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 07:49:33 2014 -0400
+
+    Generating a new PDF with lesson changes from 6, 9, 10
+
+[33mcommit 7450fe1ac4482b417defbfe107dc202018e4a226[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 07:45:40 2014 -0400
+
+    Lesson 10: Rebasing your work
+    
+    Topics:
+    
+    - Bringing Your Work Up-to-Date with Rebase
+    - Using Rebase to Combine Several Commits
+    - Using Rebase to Truncate a Branch Before Merging
+    - Combining Your Changes Into Another Branch
+    - Changing Previous Commits with Interactive Rebase
+
+[33mcommit 3a68111b221096127724a46f1c6a67a7ea00dfac[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 06:59:21 2014 -0400
+
+    Lesson 6: adding rerere to merge conflict section
+
+[33mcommit 91ec013b40cb539f515dbac36048d9ecc1a8ba07[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 06:26:32 2014 -0400
+
+    Lesson 6: Dealing with mergin conflicts
+
+[33mcommit c3f56ef7e8d22a6038a7a7f30b4c350198795285[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Thu Sep 11 05:58:00 2014 -0400
+
+    Lesson 9: extending information on reset, and revert
+    
+    Topics include:
+    - Using Branches for Experimental Work
+    - Amending a Commit
+    - Removing Changes to the Working Directory
+    - Removing Commits with Reset
+    - Promoting a Previous Commit with Revert
+
+[33mcommit d27b4abaf4be72d214876f3d46d3f7a38ce2aec7[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 18:49:18 2014 -0400
+
+    Lesson 6: Added a new lesson for merging
+    
+    It doesn't make sense to leave merging until later in the series.
+    Incorporating lessons here for:
+    
+    - fetch + merge vs. pull
+    - merging with --no-ff to force a true merge (and add a commit)
+    - default merge strategy (fast forward if possible) which re-aligns the
+      commits as if they'd always been in place, and does not force a new
+      commit message (there is a commit message if a fast forward isn't
+      possible)
+
+[33mcommit e5683dafc2bc50717c91bda5101061629b2438e6[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 18:02:57 2014 -0400
+
+    Lesson 8: Enhancing notes for git stash
+    
+    The notes were insufficient for this lesson, so I've fixed them. You
+    need to include the commit hash for an example commit that's bad
+    (broken) and an example commit that's working (good). If you don't
+    specify a "bad" commit id, Git will assume that the latest commit for
+    is "bad". It's better if you can be explicit with both in case there's
+    something funky going on.
+
+[33mcommit 91f578f9c7b4716e99fa4d0df186ff7aab4a604d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 10:33:51 2014 -0400
+
+    New table of contents on the PDF summary of lessons
+
+[33mcommit bc101c8d0e97c5e24cadef3c61e911a62841afb4[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 10:31:52 2014 -0400
+
+    Lesson 8: expanding descriptions
+    
+    Topics:
+    
+    - Finding Relative History with Git Log
+    - Finding the Last Working State with Bisect
+    - Finding the History of a File with Blame
+    - Using Stash to Work on an Emergency Bug Fix
+
+[33mcommit 396bde1d30b0781c3d7ae20be4da5bd2d0df27a4[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 09:40:37 2014 -0400
+
+    Lesson 7: Expanding notes on tags
+    
+    Lessons are now as follows:
+    
+    - Listing, Adding, and Deleting Tags
+    - Checking Out Tags
+    - Recovering from a Detached HEAD State
+    - Sharing Tags
+
+[33mcommit 542adf09f057e28b258c55d3110730c5d8510c48[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Wed Sep 10 08:39:18 2014 -0400
+
+    Lesson 6: Branching. Expanded descriptions.
+    
+    - Listing all branches; updating the list of branches wwith fetch
+    - Using a different branch; setting up tracking
+    - Establishing your branching strategy (Scheduled Deployment; CD)
+    - Creating a Topic Branch
+    - Pushing your changes to the remote repository and verifying your work
+      was uploaded
+
+[33mcommit 8ac3b310ee95dc8536408126efa474bfb9c6508d[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 18:19:27 2014 -0400
+
+    Ignoring swap files from vim.
+
+[33mcommit 5e8672a32f98e885430dd82799f597c6627c1f1a[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 18:13:59 2014 -0400
+
+    Adding a table of contents (with title) to the notes PDF.
+
+[33mcommit 255a271f41e53dbd9bc41dd4e848082ebfc487eb[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 17:28:29 2014 -0400
+
+    Lessons were renumbered to match O'Reilly conventions.
+    
+    Intro is actually lesson "zero" by the ORM convention. Shuffling all
+    lessons so recordings match any numbers used in the publications.
+
+[33mcommit 45b438c98f4aa2648a3b5805b478b79b9ec5f1e0[m
+Author: gitforteams <emma@gitforteams.com>
+Date:   Tue Sep 9 10:26:12 2014 -0400
+
+    Updating makefile to point to the revised lesson names
+
+[33mcommit 653f875b5b640f84469066f9b3af43206dd90295[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 23:05:19 2014 -0400
+
+    Lesson 7: Added intro on branching; reformatted the lessons
+
+[33mcommit 9d7fbf31f9cdf191a583d2978b47af4bf338b696[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 09:57:08 2014 -0400
+
+    Lesson 9: Removing lesson stubs from subsequent lessons.
+
+[33mcommit dbe57e41137be7d102c0d7d2ff056f04630118a0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Sep 8 06:59:56 2014 -0400
+
+    Lesson 6: Extended descriptions for adding remotes
+    
+    - Copying a Repository
+    - Cloning a Local Repository
+    - Converting a Set of Files to a Repository
+    - Adding Another Remote Connection
+
+[33mcommit 5395a0d36404b7353d761a3878959ee0084a479c[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 20:43:38 2014 +0100
+
+    Lesson 5: Extending notes for starting a local repository
+    
+    Added notes on how to use:
+    
+    - git init
+    - git add
+    - git commit
+    
+    Moved the lesson for copying repositories to the next lesson on remotes,
+    as copying a repository will bring with it remotes (which is a problem
+    if the remote you're copying connects to someone else's code hosting
+    account).
+
+[33mcommit ed8056eb4b2aaf00e6d9d183f974ed612d6f10e6[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:50:58 2014 +0100
+
+    Lesson 4: Adding details on using git config
+    
+    Added commands to customize the following:
+    
+    - username (or real name, as you prefer)
+    - email address
+    - enable color helpers within the git messages
+    
+    Added a self-study piece on customizing your command prompt to include
+    additional color and branch information.
+
+[33mcommit f1fa8e7e382f68c05577989c97a160e6ef936a48[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:16:16 2014 +0100
+
+    Lesson 3: Extended descriptions for cloning a repository, and using git log
+
+[33mcommit 47837a627518b009a2b11d4e125e5b8ceab31ddf[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:05:44 2014 +0100
+
+    Renumbering lessons after addding Lesson 4 on configuration
+    
+    Deleting old lesson names
+
+[33mcommit c88a02babc42bb00a8d2111b295ccd38a77ba7e3[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 12:03:41 2014 +0100
+
+    Lesson 4: Adding new lesson on configuring Git
+
+[33mcommit 02b0cf856f3cd8225809366f539b27787f6d5ea3[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 11:21:12 2014 +0100
+
+    Adding sample bash profile for coloured prompt, and branch name
+
+[33mcommit 93b64fca2fcf3075f3fa76f03ea8fc3d6854458b[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Sep 7 11:17:47 2014 +0100
+
+    Adding sample git config file.
+
+[33mcommit 7caf8358187f483eba7fc05f9687417089071f37[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Sep 5 13:26:46 2014 +0100
+
+    Lesson 2: Extended descriptions for forking a project on GitLab
+
+[33mcommit 72e8656a09730e72106164315804a1583ef36e03[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Sep 4 14:56:57 2014 +0100
+
+    Lesson 1: Extended descriptions for introduction and warm-up exercise
+
+[33mcommit 6d8d4ce418cbb5627434e5a5a4e700dcbaf7b34e[m
+Author: emmajane <emma@emmajane.net>
+Date:   Tue Sep 2 15:32:52 2014 +0100
+
+    Adding stub descriptions for video lessons from O'Reilly outline
+    
+    1. Introduction
+       Warm-up exercise
+    2. Getting Started
+       Using GitLab
+    3. Downloading a Remote Repository
+       Using clone
+    4. Getting Started as a Team of One
+       Using init, add
+    5. Connecting to Remote Repositories
+       Different ways to (re)connect files
+    6. Working with Branches
+       One-issue-per-branch workflow
+    7. Working with Tags
+       Dealing with detached head state
+    8. Finding and Fixing Bugs
+       Using log, bisect, blame, stash
+    9. Rollbacks, Resets, and Undoing Your Work
+       Amend, Checkout, Reset, Revert
+    10.Rebase
+       Rebase, Rerere
+    11.Collaborating on GitHub
+       Fork, Web UI, Issues, Pull Request
+    12.Collaborating on BitBucket
+       Fork, Issues, Merge Requests
+
+[33mcommit c54672054793e7e11aa08c50d5768f91fdaf629d[m
+Author: emmajane <emma@emmajane.net>
+Date:   Tue Jul 22 08:36:54 2014 -0700
+
+    Adding office hours reminder.
+
+[33mcommit 3184b5d8231cf1271862375de3b99069221c1889[m
+Author: emmajane <emma@emmajane.net>
+Date:   Tue Jul 22 08:16:56 2014 -0700
+
+    Switching back to BADCamp version of the deck.
+    
+    At LoneStar PHP I gave the "workshop" version of the talk, and it
+    fell flat for the amount of time I had. Switching back to the
+    DrupalCon Prague / BADCamp version of the deck, which is a better fit
+    for the session description and was better received by the audience.
+
+[33mcommit bd5c1787ab75ef5187596cda0c958936725d040f[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Jul 20 18:45:49 2014 -0700
+
+    Added feedback request; formatting updates to pro-con lists
+    
+    * Added slide for "what you want to learn".
+    * Added slide for "what did you actually learn" + fill out the
+      conference feedback for the talk.
+    * Added rant warnings to the commit section.
+    * Reformatted the pro-con lists on permission strategies to use a
+      table.
+    * Moved descriptions for project hosting notes below diagrams.
+    * Added sample of each workflow for project hosting section.
+    * Changed "homework" heading to "so what?"
+
+[33mcommit 876e9512da3f7b369e6eef6fb08a490c9b7f3c52[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Jul 20 18:43:06 2014 -0700
+
+    Removing feedback request; added Twitter handle.
+    
+    * Feedback request has been expanded in the deck itself, so removing
+      it from the wrapper deck.
+    * More contact information is good. Usually.
+
+[33mcommit 5abe9e805c4186c58151d426df56f8ce55c0581a[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sun Jul 20 18:36:26 2014 -0700
+
+    Removing border from slide images.
+    
+    The border was driving me nuts because it was too HTML 3.2. But it
+    may have actually been helping to add some definition to the graphic
+    information. I'll live with it without the border for a bit and see
+    what I think.
+
+[33mcommit 8d8ec5a271b5574f9b0228b0455a0c1bb6cbe103[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Jul 7 12:05:57 2014 -0400
+
+    Adding initial version of handout for OSCON session.
+
+[33mcommit d439e89be55186755ac29aa3f37e948ee0cf7431[m
+Author: emmajane <emma@emmajane.net>
+Date:   Mon Jul 7 12:03:48 2014 -0400
+
+    Formatting adjustment to fix markdown display
+    
+    * Removed new line so that the slide contents would be interpreted
+      as markdown.
+
+[33mcommit 03fde4712cf62e76e349888c6464fc4eee0829c7[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jul 3 12:49:48 2014 -0400
+
+    PDF slides: optimized layout to avoid clipped text
+    
+    * Moved the notes to their own right-hand column per suggestion from
+      @mef at  https://github.com/hakimel/reveal.js/issues/963#issuecomment-47523839
+    * Decreased the font sizes a bit so that the slide content would fit
+      without clipping.
+    * Removed the printed HREF from the notes sidebar.
+    * Made the printed HREF take up its own line so that it's clearer to
+      read.
+
+[33mcommit 475c0fb297eb46b9f7164313f026d116a3afadf6[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 23:40:17 2014 -0400
+
+    Update README to provide links to static github.io site for resources
+
+[33mcommit e095bef3c04bfb96ef15941d578037a60980d2a0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 22:47:51 2014 -0400
+
+    Added patching work flow back to the deck.
+    
+    After writing down my thoughts about the evolution of how we use Git
+    on open source projects
+    (http://developerworkflow.com/resources/evolution-social-coding.html)
+    I realized that the patch work flow was actually interesting and
+    relevant in the modern context. Although it's 'archaic' by today's
+    standards, it's actually how the git tools are designed to work. The
+    social coding tools we use today are NOT optimized for the patching
+    work flow, and as a result it makes parts of Git more difficult to
+    use with other permission strategies. Knowing the historical
+    context, I think, helps to explain why rebasing can be really
+    important to use.
+
+[33mcommit aa1bb4650eb31b9802bec033efa94a252a446ace[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 01:15:27 2014 -0400
+
+    Formatting: adding linebreak for very long slide title
+
+[33mcommit 6f676661c4f6645cb07a74456a74b1efd2d6014b[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 01:11:08 2014 -0400
+
+    Adding PDF of slides from LoneStarPHP 2014.
+
+[33mcommit cdd495c4e25a818bf709440c26265db19eb586a3[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:59:58 2014 -0400
+
+    Print documentation: adding note about landscape orientation
+
+[33mcommit a2f5235f7d1e29a2db74defcd0ba4c0976b2834c[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:55:49 2014 -0400
+
+    Styles adjusted to display URLs in the PDF handout.
+
+[33mcommit 67040b1296dfd40667116efcf4c4d4296e684489[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:48:30 2014 -0400
+
+    Spell check: corrected several minor typos.
+    
+    * Resolves Issue #1 submitted by @timplunkett
+
+[33mcommit 7d09b70f737050f9288d6e15ed2cf0e11344bd76[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:43:11 2014 -0400
+
+    Bug fix: split resources for Whispering Pines onto 2nd page.
+    
+    * Formatting for the Whispering Pines Work Flow wasn't fitting onto
+      a single slide. Split it into two.
+    * Regenerated the PDF handout.
+
+[33mcommit f29636206ce4bd4cdd3dc3f1485b7a4559e7f286[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:35:20 2014 -0400
+
+    Adding a PDF version of the OSCON workshop slides. Speaker notes not printing correctly (yet).
+
+[33mcommit c247025f4bc7e8e30ffe625ea6a994fc0a18c07c[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:31:11 2014 -0400
+
+    New section: Commit granularity aka the great rebase debate.
+    
+    * Adds new slides to explain the importance of commit granularity.
+    * Adds new screenshots comparing git and bzr's default graphical
+      treatment of logs.
+    * Adds a placeholder slides for an activity for this section.
+
+[33mcommit 787fa0ec8b49f09a7f9bfae6a828d4f177bad3b7[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Jun 28 00:29:38 2014 -0400
+
+    Removing Drupalize.Me logo from slides.
+
+[33mcommit 1065b6d7e1642cfed17bd82bcfbdad9b70c196e0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Jun 27 23:00:21 2014 -0400
+
+    Adding print-to-PDF styles for speaker notes.
+
+[33mcommit a92069e1de6a50da8fc43ec6c694691127dbd339[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jun 26 01:11:50 2014 -0400
+
+    Branching: updating CD diagram to match gitflow colours
+
+[33mcommit 6f8345ebd38f24151e23219feed8b30af651280a[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jun 26 00:54:49 2014 -0400
+
+    Resources: added master resource, developerworkflow.com.
+    
+    * Removed: Managing Chaos (book).
+    * Removed: Atlassian work flow diagrams.
+    * Added: My own site, developerworkflow.com which includes both of the removed resources.
+
+[33mcommit 51fee6e8f4b6c69683a69e1fc86b4ab62f7aca8f[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jun 26 00:46:58 2014 -0400
+
+    Fixing URL for LoneStar session; adding link to OSCON notes
+
+[33mcommit d970210cd4f3565deffb2045c8d881c7d1786759[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jun 26 00:41:16 2014 -0400
+
+    Added activities for half day workshop.
+    
+    * Diagrams re-incorporated from DrupalCon Prague session (and previous Bazaar presentations).
+    * Extended the deck with activities; based on DrupalCon Prague session.
+    * Updated diagrams for Star Wars and Whispering Pines workflow to show difference in live server.
+    * Separated the workshop into three distinct parts: Project Hosting, Branching Strategies, Documentation.
+    * Added warm-up exercise section for code timeline activity.
+
+[33mcommit 7874193c321b14a21fa81d47d347a15f6d7be2e4[m
+Author: emmajane <emma@emmajane.net>
+Date:   Thu Jun 26 00:37:41 2014 -0400
+
+    Updated README for post-Lullabot version of the deck.
+    
+    * Includes more history about the project to give context for Emma's experience.
+    * Gives thanks, but not authorship rights, to Lullabot / Drupalize.Me.
+
+[33mcommit 39e3ef6f0682e55e2e0c372a51b2fa5d6854c5a0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Jun 25 18:52:24 2014 -0400
+
+    Creating stub files for OSCON session and workshop.
+
+[33mcommit 2e6fb3ea17b236a2feaa783de456f64f6309495e[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Jun 25 17:50:58 2014 -0400
+
+    Updating reveal.js to 131c006 from hakimel/reveal.js
+
+[33mcommit 5cc357645d35c33a1fd9a051c8f124221ac3201d[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Jun 25 17:45:38 2014 -0400
+
+    Renaming presentation directory slides
+
+[33mcommit 0b73e9ec49f4fd73249928f69b01cc6b87681415[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 15:16:51 2014 -0500
+
+    Typo fix: 'pines' not 'piles'.
+
+[33mcommit 9d9a79c88464b812d421af0787bf570b98b2a447[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 10:23:00 2014 -0500
+
+    Removing reference to a company which uses a Forking workflow as it was really a private reminder to myself, not a helpful public note.
+
+[33mcommit 7920f4c5760b8bf84fdc451dfb565bffbf336b43[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 10:09:29 2014 -0500
+
+    Formatting update to remove the label 'repository and slides' so that the URL for the repo fits onto a single line
+
+[33mcommit a27b771ce97b6a8bac19f883bfff5c7578d690b1[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 10:08:20 2014 -0500
+
+    Making the URL readable from the slides, instead of it being a text-based link, so that people can get the slides by copying down a URL.
+
+[33mcommit ddbecb04017d6e6d56beb85f18a52264de9d8b7d[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 10:05:58 2014 -0500
+
+    Removing the DS_Store file because silly.
+
+[33mcommit b80a75acf90db8d2e9d7e84d1af3ece4a1cf8c7b[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 10:00:55 2014 -0500
+
+    Adding URL for the repository to the final slide in case people missed it. Adding Twitter link for Drupalize.Me.
+
+[33mcommit a94b4c41cfdf37ef49b28fe14b452ed7b8e2d473[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 08:17:39 2014 -0500
+
+    Fixing broken URL to the slides from the main README file. Was missing the end round bracket.
+
+[33mcommit 814cbfca53844711fd9c013e4beeef3bfbfb4ae2[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 08:15:40 2014 -0500
+
+    Updating links to resources and document titles to reflect actual names for the examples instead of just Sample 1 and Sample 2
+
+[33mcommit 356bc362aacc2fd1e5c73f40dd17956e5db6cbd1[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 08:05:21 2014 -0500
+
+    Adding a honey badger because git don't care about your workflow.
+
+[33mcommit 689d53e7fbdcc6628d5a4bf9e7b10be72691b747[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 08:04:46 2014 -0500
+
+    Removing .DS_Store from the repository because silly
+
+[33mcommit 39b16c55c84fcb6c8f517bce097f48405b16a9ce[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 08:03:21 2014 -0500
+
+    Workflow strategy talk shuffled from what is now the scratchnotes file.
+
+[33mcommit e8c7fa3758f2df96e1f84447286417dadac5bb43[m
+Author: emmajane <emma@emmajane.net>
+Date:   Sat Apr 26 07:58:39 2014 -0500
+
+    Adding resource for our step-by-step deployment processes for the QA and live servers.
+
+[33mcommit cf97a23ca87ca2a86c101272353ec1ad8bca6ea7[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Apr 25 16:37:15 2014 -0500
+
+    Adding a link to my Wikipedia page because sometimes people think beekeepering and coding are mutually exclusive.
+
+[33mcommit e831944fd3aa94e17cf76870f59bad60d73eca23[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Apr 25 16:04:18 2014 -0500
+
+    Updating the name of the workflow documents to the names used in the presentation
+
+[33mcommit 7a87bd5c15fdddb93de6991a53fb5b8abee1faa0[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Apr 25 16:01:16 2014 -0500
+
+    Adding a link to the repo on the first slide.
+
+[33mcommit 8b6aadf32d1fd3d098a805a750f98d941bf57873[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Apr 25 15:32:00 2014 -0500
+
+    Updating the exit eval slide to include the correct URL for feedback on https://joind.in/10819
+
+[33mcommit c188cdb2ba715f369bf291677aadae004f4bce8a[m
+Author: emmajane <emma@emmajane.net>
+Date:   Fri Apr 25 15:27:42 2014 -0500
+
+    Initial commit of deck re-write for LoneStarPHP. Changes focus from Git Makes me Angry Inside talk to look more at the framework of how to make workflow decisions.
+
+[33mcommit f5fb3ffff46eb6c50278e5b64d3f9ded58bdbc63[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Apr 23 22:26:09 2014 -0400
+
+    Fixing broken URL for the resource file: sample release cycle.
+
+[33mcommit f64dc8c69e77b4a286ab55502297339ef00d38ca[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Apr 23 22:25:13 2014 -0400
+
+    Adding starter kit for reveal.js slides
+
+[33mcommit 3e9dd558eab6ff1c8956c71d3eaaee5014030d4f[m
+Author: emmajane <emma@emmajane.net>
+Date:   Wed Apr 23 22:11:40 2014 -0400
+
+    Initial commit of resources
+
+[33mcommit 00de3598cf5746a4aa04de8b65efc7c34bcc354b[m
+Author: Emma Jane <emma@emmajane.net>
+Date:   Wed Apr 23 18:54:03 2014 -0700
+
+    Initial commit
